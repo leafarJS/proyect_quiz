@@ -28,7 +28,7 @@ h1 {
   color: #5a6772;
   text-transform: capitalize;
 }
-#btn {
+.btn {
   background-color: #34a3a3;
   width: 12.5rem;
   color: #fff;

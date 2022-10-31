@@ -7,7 +7,7 @@ export class Question {
    */
   constructor(text, choices, answer) {
     this.text = text;
-    this.question = choices;
+    this.choices = choices;
     this.answer = answer;
   }
   /**
